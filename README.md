@@ -147,10 +147,13 @@ Para começar: o que mais te atrai em tecnologia - resolver problemas, criar pro
 
 
 
-RESULTADO
+
+
+## RESULTADO
 O agente idenficou como carreira recomendada exatamente a que eu venho me especializado: Analista de dados!
 
 <img width="764" height="520" alt="image" src="https://github.com/user-attachments/assets/c429b7c4-fba4-4eb9-b9e8-7e1d06be2913" />
+
 
 
 
